@@ -6,4 +6,4 @@ This python script create a tic tac toe board (interface), where two players can
   - The board should be printed out every time a player makes a move
   - You should be able to accept input of the player position and then place a symbol on the board
   - 
-After choosing the X or O symbol, we use the keyboard numpad to place the symbol on the game board. Numer one from the numpad is the downleft cell from the board and number 9 is the upper right cell. ENJOY!
+After choosing the X or O symbol, we use the keyboard numpad to place the symbol on the game board. Number one from the numpad is the downleft cell from the board and number nine is the upper right cell. ENJOY!
